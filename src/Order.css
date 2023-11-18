@@ -1,0 +1,12 @@
+.order {
+    padding: 40px;
+    margin: 20px 0;
+    border: 2px solid lightgrey;
+    background-color: white;
+    position: relative;
+}
+
+.order_total {
+    font-weight: 500;
+    text-align: right;
+}
